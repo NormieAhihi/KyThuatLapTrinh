@@ -1,0 +1,212 @@
+		===============================================================
+					     MENU       			
+		===============================================================
+	      =>| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		====================================
+			== Chon cach nhap ==		
+		====================================
+	     => 1. Nhap tu file.
+		2. Nhap tu man hinh.
+		====================================
+		Nhap duong dan file: 
+		C:\\Users\\Admin\\OneDrive\\Documents\\C-C++\\Ky thuat lap trinh\\BTL\\Input\\Matrix 4.txt
+		====================================
+		Nhap thanh cong!
+		Nhap so chu so thap phan trong ket qua: 2
+		Ma tran A: 
+		   1.00    1.00   -3.00    2.00 
+		   1.00   -2.00    0.00   -1.00 
+		   0.00    1.00    1.00    3.00 
+		   2.00   -3.00    2.00    0.00 
+		Vector b: 
+		   6.00
+		 -16.00
+		  16.00
+		   6.00
+		====================================
+
+		Nhan Enter de quay lai.
+		Nhan ESC de thoat chuong trinh.
+		===============================================================
+					     MENU       			
+		===============================================================
+	      =>| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+	      =>| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		=================================
+			   Ket qua 
+		=================================
+		 Ma tran A khong cheo troi hang.
+		 Ma tran A khong cheo troi cot.
+		=================================
+		Nhan Enter de quay lai.
+		Nhan ESC de thoat chuong trinh.
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+	      =>| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+	      =>| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		=================================
+			 Ket qua 
+		=================================
+		 Chuan hang ma tran A: 7.00
+		 Chuan cot ma tran A: 7.00
+		 Phuong phap khong hoi tu.
+		=================================
+		Nhan Enter de quay lai.
+		Nhan ESC de thoat chuong trinh.
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+	      =>| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+	      =>| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		========================================
+			 Nhap cac tham so 		
+		========================================
+		 Nhap so lan lap k: 8
+		 Nhap so chu so thap phan trong ket qua: 2
+		====================================
+		Phuong phap khong hoi tu.
+		====================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+	      =>| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+	      =>| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		========================================
+			 Nhap cac tham so 		
+		========================================
+		 Nhap sai so e: 0.01
+		 Nhap so chu so thap phan trong ket qua: 2
+		====================================
+		Phuong phap khong hoi tu.
+		====================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+	      =>| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+	      =>| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		========================================
+			 Nhap cac tham so 		
+		========================================
+		 Nhap sai so e: 0.02
+		 Nhap so chu so thap phan trong ket qua: 4
+		====================================
+		Phuong phap khong hoi tu.
+		====================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+	      =>| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+		| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		===============================================================
+					     MENU       			
+		===============================================================
+		| 1. Nhap ma tran A va vecto b.                               |
+		| 2. Kiem tra tinh cheo troi cua ma tran A.                   |
+		| 3. Tinh chuan cua ma tran A. Kiem tra su hoi tu.            |
+		| 4. Tinh nghiem gan dung voi k lan lap.                      |
+		| 5. Tinh nghiem gan dung voi sai so e.                       |
+		| 6. Tinh nghiem gan dung X(k) thoa man ||X(k)-X(k-1)|| <= e. |
+	      =>| 7. Thoat chuong trinh.                                      |
+		===============================================================
+		========================================
+			 Ket thuc chuong trinh 		
+		========================================

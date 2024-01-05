@@ -1,0 +1,64 @@
+# Project: Project KTLT
+# Makefile created by Dev-C++ 5.11
+
+CPP      = g++.exe
+CC       = gcc.exe
+WINDRES  = windres.exe
+OBJ      = Input.o main.o submenu.o solve_with_k.o solve_with_condition.o solve_with_epsilon.o cal_lambda.o cal_matrix_B_and_vecto_d.o cal_norm.o check_dominance.o error.o implement_iterative.o print_result.o
+LINKOBJ  = Input.o main.o submenu.o solve_with_k.o solve_with_condition.o solve_with_epsilon.o cal_lambda.o cal_matrix_B_and_vecto_d.o cal_norm.o check_dominance.o error.o implement_iterative.o print_result.o
+LIBS     = -L"D:/Dev-C/Dev-Cpp/MinGW64/lib" -L"D:/Dev-C/Dev-Cpp/MinGW64/x86_64-w64-mingw32/lib" -static-libgcc
+INCS     = -I"D:/Dev-C/Dev-Cpp/MinGW64/include" -I"D:/Dev-C/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Dev-C/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include"
+CXXINCS  = -I"D:/Dev-C/Dev-Cpp/MinGW64/include" -I"D:/Dev-C/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include" -I"D:/Dev-C/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include" -I"D:/Dev-C/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include/c++"
+BIN      = "Project KTLT.exe"
+CXXFLAGS = $(CXXINCS) 
+CFLAGS   = $(INCS) 
+RM       = rm.exe -f
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+Input.o: Input.cpp
+	$(CPP) -c Input.cpp -o Input.o $(CXXFLAGS)
+
+main.o: main.cpp
+	$(CPP) -c main.cpp -o main.o $(CXXFLAGS)
+
+submenu.o: submenu.cpp
+	$(CPP) -c submenu.cpp -o submenu.o $(CXXFLAGS)
+
+solve_with_k.o: solve_with_k.cpp
+	$(CPP) -c solve_with_k.cpp -o solve_with_k.o $(CXXFLAGS)
+
+solve_with_condition.o: solve_with_condition.cpp
+	$(CPP) -c solve_with_condition.cpp -o solve_with_condition.o $(CXXFLAGS)
+
+solve_with_epsilon.o: solve_with_epsilon.cpp
+	$(CPP) -c solve_with_epsilon.cpp -o solve_with_epsilon.o $(CXXFLAGS)
+
+cal_lambda.o: cal_lambda.cpp
+	$(CPP) -c cal_lambda.cpp -o cal_lambda.o $(CXXFLAGS)
+
+cal_matrix_B_and_vecto_d.o: cal_matrix_B_and_vecto_d.cpp
+	$(CPP) -c cal_matrix_B_and_vecto_d.cpp -o cal_matrix_B_and_vecto_d.o $(CXXFLAGS)
+
+cal_norm.o: cal_norm.cpp
+	$(CPP) -c cal_norm.cpp -o cal_norm.o $(CXXFLAGS)
+
+check_dominance.o: check_dominance.cpp
+	$(CPP) -c check_dominance.cpp -o check_dominance.o $(CXXFLAGS)
+
+error.o: error.cpp
+	$(CPP) -c error.cpp -o error.o $(CXXFLAGS)
+
+implement_iterative.o: implement_iterative.cpp
+	$(CPP) -c implement_iterative.cpp -o implement_iterative.o $(CXXFLAGS)
+
+print_result.o: print_result.cpp
+	$(CPP) -c print_result.cpp -o print_result.o $(CXXFLAGS)
